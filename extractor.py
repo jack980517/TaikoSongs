@@ -1,3 +1,4 @@
+#!/usr/bin/python2
 list=open('00.txt','r')
 for i in range(0,211):
     dat=list.readline()[:-1]
